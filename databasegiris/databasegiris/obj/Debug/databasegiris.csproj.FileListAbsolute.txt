@@ -1,0 +1,11 @@
+C:\Users\mhmtm\Desktop\databasegiris\databasegiris\bin\Debug\databasegiris.exe.config
+C:\Users\mhmtm\Desktop\databasegiris\databasegiris\bin\Debug\databasegiris.exe
+C:\Users\mhmtm\Desktop\databasegiris\databasegiris\bin\Debug\databasegiris.pdb
+C:\Users\mhmtm\Desktop\databasegiris\databasegiris\obj\Debug\databasegiris.csproj.AssemblyReference.cache
+C:\Users\mhmtm\Desktop\databasegiris\databasegiris\obj\Debug\databasegiris.csproj.SuggestedBindingRedirects.cache
+C:\Users\mhmtm\Desktop\databasegiris\databasegiris\obj\Debug\databasegiris.Form1.resources
+C:\Users\mhmtm\Desktop\databasegiris\databasegiris\obj\Debug\databasegiris.Properties.Resources.resources
+C:\Users\mhmtm\Desktop\databasegiris\databasegiris\obj\Debug\databasegiris.csproj.GenerateResource.cache
+C:\Users\mhmtm\Desktop\databasegiris\databasegiris\obj\Debug\databasegiris.csproj.CoreCompileInputs.cache
+C:\Users\mhmtm\Desktop\databasegiris\databasegiris\obj\Debug\databasegiris.exe
+C:\Users\mhmtm\Desktop\databasegiris\databasegiris\obj\Debug\databasegiris.pdb
